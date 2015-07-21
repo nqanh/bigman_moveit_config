@@ -1,2 +1,0 @@
-# bigman_moveit_config
-bigman_moveit_config
